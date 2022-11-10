@@ -19,7 +19,6 @@
 <table><tr><td valign="top" width="33%">
 
 
-
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -32,7 +31,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -93,18 +91,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=joserobertoo&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/zerobertoo" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
+<br/>
 
 ----
 <div align="center">README feito com: <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
