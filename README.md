@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Sou o José, um Desenvolvedor Júnior apaixonado por C# e JS 👨‍💻</div>  
+### <div align="center">Sou o José Roberto, um Desenvolvedor Júnior apaixonado por C# e JS 👨‍💻</div>  
   
 
 - 🔭 Atualmente estou somente estudando, porém já tenho experiência profissional
