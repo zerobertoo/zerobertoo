@@ -6,7 +6,7 @@
 ### <div align="center">Sou o José, um Desenvolvedor Júnior apaixonado por C# e JS 👨‍💻</div>  
   
 
-- 🔭 Trabalhando atualmente na: [ConectCon](https://conectcon.com)  
+- 🔭 Atualmente estou somente estudando, porém já tenho experiência profissional
   
 
 - 🌱 Buscando sempre ampliar meu conhecimento (principalmente em C#)  
