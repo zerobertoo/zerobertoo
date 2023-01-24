@@ -4,9 +4,12 @@
 <h3 align="center">Um desenvolvedor back-end júnior (mas estudando para ser full-stack)</h3>
 
 ## 💫 Sobre mim:
-🔭 Eu estou atualmente envolvido em estudos, mas já tenho experiência profissional.
+🔭 Eu estou atualmente envolvido nos estudos, mas já tenho experiência profissional.
+<br>
 👯 Estou procurando por oportunidades para colaborar em projetos e expandir meus conhecimentos.
+<br>
 🌱 Atualmente, estou estudando React.
+<br>
 💬 Sou capacitado para trabalhar com C#
 
 
