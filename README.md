@@ -25,7 +25,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zerobertoo&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zerobertoo&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 -->
-## ✍️ Citação aleatória de um desenvolvedor
+## ✍️ Citação de um desenvolvedor
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
