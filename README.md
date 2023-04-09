@@ -8,9 +8,7 @@
 <br>
 👯 Estou procurando por oportunidades para colaborar em projetos e expandir meus conhecimentos.
 <br>
-🌱 Atualmente, estou estudando React.
-<br>
-💬 Sou capacitado para trabalhar com C#
+🌱 Atualmente estou estudando sobre .NET MAUI.
 
 
 ## 🌐 Conecte-se comigo:
