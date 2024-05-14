@@ -1,12 +1,12 @@
 <div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></div>
 
-<h1 align="center">Olá 🖖, Eu sou o José Roberto</h1>
-<h3 align="center">Um desenvolvedor back-end júnior (mas estudando para ser full-stack)</h3>
+<h1 align="center">Olá 🖖, Eu sou o José</h1>
+<h3 align="center">Desenvolvedor Full-Stack</h3>
 
 ## 💫 Sobre mim:
-🔭 Eu estou atualmente envolvido nos estudos, mas já tenho experiência profissional.
+🔭 Atualmente atuando em minha prórpia empresa, o <a href="https://linktr.ee/grupoodyssey" target="_blank" style="text-decoration: none">Grupo Odyssey</a>.
 <br>
-👯 Estou procurando por oportunidades para colaborar em projetos e expandir meus conhecimentos.
+👯 Sempre aberto a oportunidades para colaborar em projetos e expandir meus conhecimentos.
 <br>
 <!--
 🌱 Atualmente estou estudando sobre .NET MAUI.
