@@ -4,7 +4,7 @@
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
 ## 💫 Sobre mim:
-🔭 Atualmente atuando em minha prórpia empresa, o <a href="https://linktr.ee/grupoodyssey" target="_blank" style="text-decoration: none">Grupo Odyssey</a>.
+🔭 Atualmente atuando em minha própria empresa, o <a href="https://linktr.ee/grupoodyssey" target="_blank" style="text-decoration: none">Grupo Odyssey</a>.
 <br>
 👯 Sempre aberto a oportunidades para colaborar em projetos e expandir meus conhecimentos.
 <br>
