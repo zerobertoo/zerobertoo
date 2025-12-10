@@ -1,35 +1,57 @@
-<div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></div>
+# 👋 Olá! Eu sou o José
 
-<h1 align="center">Olá 🖖, Eu sou o José</h1>
-<h3 align="center">Desenvolvedor Full-Stack</h3>
-
-## 💫 Sobre mim:
-🔭 Atualmente atuando em minha própria empresa, o <a href="https://grupoodyssey.com/links" target="_blank" style="text-decoration: none">Grupo Odyssey</a>.
-<br>
-👯 Sempre aberto a oportunidades para colaborar em projetos e expandir meus conhecimentos.
-<br>
-<!--
-🌱 Atualmente estou estudando sobre .NET MAUI.
--->
-
-
-## 🌐 Conecte-se comigo:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/euzerobertoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joserobertoo/) 
-
-
-## 💻 Tech stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
-
-## 📊 GitHub stats:
-![](https://github-readme-stats.vercel.app/api?username=zerobertoo&theme=nord&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zerobertoo&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zerobertoo&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## ✍️ Citação de um desenvolvedor
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+**Desenvolvedor Full-Stack • .NET • APIs • Automações • Web**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zerobertoo&icon=2&color=8)](https://visitcount.itsvg.in)
 
-README gerado com <a href="https://gprm.itsvg.in" target="_blank">GPRM</a>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Sobre mim
+
+Sou desenvolvedor full-stack com experiência em:
+
+- **Back-End:** .NET, C#, ASP.NET e APIs REST
+- **Front-End:** HTML, CSS, JavaScript, Bootstrap e jQuery
+- **Banco de Dados:** SQL Server e MySQL
+- **Automações:** Integrações usando n8n
+- **Web:** Criação de sites, landing pages, SEO e gestão de tráfego pago
+- **Soft Skills:** Comunicação clara entre times técnicos e clientes
+
+Tenho facilidade em entender necessidades de negócio e transformá-las em soluções técnicas diretas e funcionais. Sempre aberto a novas oportunidades e desafios que impulsionem crescimento profissional.
+
+---
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINK)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zerobertoo)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
+
+---
+
+## 💻 Tech Stack
+
+### Back-end
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### Front-end
+![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+### Banco de Dados
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Outros
+![n8n](https://img.shields.io/badge/-n8n-EB0029?style=flat-square&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## ✍️ Citação do Dia
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
