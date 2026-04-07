@@ -59,19 +59,20 @@ Ideal pra quem quer centralizar presença digital de forma criativa e diferente 
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
-<!--
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats-five-eta-54.vercel.app/api?username=zerobertoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
--->
+
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-orcin.vercel.app?user=zerobertoo&theme=dark" alt="GitHub Streak" /></a>
 </div>
 ---
+-->
 
 ## 🌐 Onde me encontrar
 
