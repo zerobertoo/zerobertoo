@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Jose+Roberto;Full-Stack+Developer;.NET+%7C+Node.js+%7C+Python;APIs+%7C+Automações+%7C+Produto" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Jose+Roberto;Full-Stack+Developer;.NET+%7C+Node.js+%7C+Python;APIs+%7C+Automações+%7C+Produto" alt="Typing SVG"></img>
 
 <p>
   Construo sistemas que resolvem problemas reais — back-end sólido, front-end funcional, <br/>
@@ -30,12 +30,12 @@ Hoje estou com foco total em desenvolvimento, carregando essa bagagem como vanta
 
 ### 🌐 MyOrb.bio
 
-|               |                                                                                                                                                                                                                                                                                                                      |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Descrição** | Plataforma de link-in-bio com conceito orbital: os links orbitam ao redor do perfil do usuário, criando uma experiência interativa e memorável — diferente do Linktree padrão.                                                                                                                                       |
-| **Stack**     | segredo 🙊 |
-| **Status**    | ![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-orange?style=flat-square)                                                                                                                                                                                                                         |
-| **Acesso**    | [![MyOrb](https://img.shields.io/badge/Acessar-myorb.bio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://myorb.bio)                                                                                                                                                                                 |
+|               |                                                                                                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Descrição** | Plataforma de link-in-bio com conceito orbital: os links orbitam ao redor do perfil do usuário, criando uma experiência interativa e memorável — diferente do Linktree padrão. |
+| **Stack**     | segredo 🙊                                                                                                                                                                     |
+| **Status**    | ![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-orange?style=flat-square)                                                                                   |
+| **Acesso**    | [![MyOrb](https://img.shields.io/badge/Acessar-myorb.bio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://myorb.bio)                                           |
 
 ---
 
