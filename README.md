@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor full-stack voltado para back-end, com um diferencial que vai além do código: anos construindo produtos digitais do zero — da estratégia ao lançamento, passando por growth, marketing digital e operações.
+Sou desenvolvedor full-stack voltado para back-end, com um diferencial que vai além do código: anos construindo produtos digitais do zero. Da estratégia ao lançamento, passando por growth marketing e operações.
 
 Essa imersão no lado de negócios me deu algo que a maioria dos devs não tem: a capacidade de avaliar impacto antes de escrever a primeira linha. Não implemento funcionalidades, resolvo problemas — e sei distinguir os dois.
 
