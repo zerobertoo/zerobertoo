@@ -19,9 +19,9 @@
 
 ## whoami
 
-Desenvolvedor com foco em back-end e visão de produto. Anos construindo do zero — da estratégia ao deploy. Isso me deu algo que código sozinho não ensina: saber **o que** construir antes de discutir **como**.
+Desenvolvedor com foco em back-end e visão de produto. Anos construindo do zero, da estratégia ao deploy. Isso me deu algo que código sozinho não ensina: saber **o que** construir antes de discutir **como**.
 
-Hoje trabalho em uma plataforma SaaS de controle de acesso condominial — integrações com equipamentos físicos via REST e WebSocket, Angular 17+ no front, Node.js/Fastify no back. À noite, mantenho automações com n8n e Evolution API, e sigo desenvolvendo o [MyOrb](https://myorb.bio) — meu próprio produto, no ar.
+Hoje trabalho mais com Angular no front, Node.js/Fastify no back. Em paralelo, mantenho o [MyOrb](https://myorb.bio) — minha própria plataforma de link-in-bio.
 
 Não implemento funcionalidades. Resolvo problemas. Sei distinguir os dois.
 
@@ -77,12 +77,3 @@ produto   →  myorb.bio
 ```
 
 <br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zerobertoo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=zerobertoo&color=6e40c9&style=flat-square&label=visitors"/>
-</div>
