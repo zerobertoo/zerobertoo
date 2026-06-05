@@ -21,7 +21,7 @@
 
 Desenvolvedor com foco em back-end e visão de produto. Anos construindo do zero, da estratégia ao deploy. Isso me deu algo que código sozinho não ensina: saber **o que** construir antes de discutir **como**.
 
-Hoje trabalho mais com Angular no front, Node.js/Fastify no back. Em paralelo, mantenho o [MyOrb](https://myorb.bio) — minha própria plataforma de link-in-bio.
+Hoje trabalho mais com Angular no front, Node.js/Fastify no back. Em paralelo, mantenho o [MyOrb](https://myorb.bio), minha própria plataforma de link-in-bio.
 
 Não implemento funcionalidades. Resolvo problemas. Sei distinguir os dois.
 
