@@ -30,7 +30,7 @@ Tudo o que cito aqui está em produção ou com código aberto.
 ## now
 
 ```
-construindo  →  OpenCourse, plataforma de cursos self-hosted
+construindo  →  OpenVTT (mesa virtual de RPG) e OpenCourse (cursos self-hosted, v1.0 no ar)
 mantendo     →  MyOrb, LeadMapper e zerobertoo.com
 ```
 
@@ -113,6 +113,18 @@ Extensão de Chrome que transforma uma busca no Google Maps em leads em CSV, dir
 `Chrome Extension` `Manifest V3`
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [OpenVTT](https://github.com/zerobertoo/OpenVTT) `open source`
+
+Mesa virtual self-hosted para RPG de mesa, escrita do zero e executada no navegador.
+
+`Fastify` `React` `PixiJS` `SQLite`
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
