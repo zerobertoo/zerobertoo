@@ -10,9 +10,9 @@
 [![Last.fm](https://img.shields.io/badge/last.fm-zerobertoo__-133530?style=flat-square&labelColor=133530)](https://www.last.fm/user/zerobertoo_)
 
 <br/>
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerobertoo&layout=compact&hide_border=false&bg_color=0c2420&border_color=2a5249&title_color=ff9f86&text_color=eef3ea&border_radius=3&disable_animations=true" alt="Linguagens mais usadas" />
-
+-->
 </div>
 
 <br/>
